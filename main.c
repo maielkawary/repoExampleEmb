@@ -5,6 +5,7 @@
 #include "toSort.h"
 int main()
 {
+    /* Version 2 for main*/
     int arrLength ;
 
     printf("Enter the number of array Elements : ");
